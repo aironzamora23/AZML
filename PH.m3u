@@ -552,12 +552,12 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://vod.nathcreqtives.com/1093/manifest.mpd
+http://vod.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WcYS3S3.png" group-title="Converge",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-https://vod.nathcreqtives.com/1286/manifest.mpd
+http://vod.nathcreqtives.com/1286/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Converge", PBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
